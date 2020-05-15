@@ -34,6 +34,7 @@
     "@storybook/addon-actions": "^5.3.18",
     "@storybook/addon-links": "^5.3.18",
     "@storybook/addon-notes": "^5.3.18",
+    "@storybook/addon-storysource": "^5.3.18",
     "@storybook/addons": "^5.3.18",
     "@storybook/angular": "^5.3.18",
     "@types/jasmine": "~3.5.0",
@@ -41,6 +42,7 @@
     "@types/node": "^12.11.1",
     "babel-loader": "^8.1.0",
     "codelyzer": "^5.1.2",
+    "css-loader": "^3.5.3",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~5.0.0",
@@ -50,6 +52,7 @@
     "karma-jasmine-html-reporter": "^1.4.2",
     "ng-packagr": "^9.0.0",
     "protractor": "~5.4.3",
+    "to-string-loader": "^1.1.6",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"

@@ -1,5 +1,5 @@
 {
-  "extends": "../tsconfig.json",
+  "extends": "../projects/button/tsconfig.lib.json",
   "compilerOptions": {
     "types": [
       "node"

@@ -5,7 +5,10 @@ import { Component, Input } from '@angular/core';
   template: `
    <button [disabled]="disabled">{{text}}</button>
   `,
-  styles: [
+  styles: [`
+    button {
+      background: lime;
+    }`
   ]
 })
 export class ButtonComponent {
